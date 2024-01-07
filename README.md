@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ZolileNyambi
 
 ## About Me
-I am Zolile Nyambi, currently a student at WeThinkCode_. I am proficient in Python, Java, and web development technologies including HTML, CSS, and JavaScript. I also have experience in SQL and other relevant skills.
+I am Zolile Nyambi. I am proficient in Python, Java, and web development technologies including HTML, CSS, and JavaScript. I also have experience in SQL and other relevant skills.
 
 ## Interest
 s
